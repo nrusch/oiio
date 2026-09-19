@@ -101,6 +101,7 @@ void declare_imagespec(py_module& m);
 void declare_imageinput(py_module& m);
 void declare_imageoutput(py_module& m);
 void declare_typedesc(py_module& m);
+void declare_filterdesc(py_module& m);
 void declare_roi(py_module& m);
 void declare_deepdata(py_module& m);
 void declare_colorconfig(py_module& m);

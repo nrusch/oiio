@@ -6,6 +6,7 @@ set (nanobind_srcs
      ${CMAKE_CURRENT_SOURCE_DIR}/../python/py_oiio.cpp
      ${CMAKE_CURRENT_SOURCE_DIR}/../python/py_roi.cpp
      ${CMAKE_CURRENT_SOURCE_DIR}/../python/py_typedesc.cpp
+     ${CMAKE_CURRENT_SOURCE_DIR}/../python/py_filterdesc.cpp
      ${CMAKE_CURRENT_SOURCE_DIR}/../python/py_imagespec.cpp
      ${CMAKE_CURRENT_SOURCE_DIR}/../python/py_paramvalue.cpp
      ${CMAKE_CURRENT_SOURCE_DIR}/../python/py_deepdata.cpp

@@ -7,6 +7,7 @@ add_subdirectory (stubs)
 set (python_dual_backend_srcs
      py_roi.cpp
      py_typedesc.cpp
+     py_filterdesc.cpp
      py_imagespec.cpp
      py_paramvalue.cpp
      py_deepdata.cpp

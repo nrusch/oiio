@@ -460,6 +460,7 @@ static void
 declare_global_bindings(py_module& m)
 {
     declare_typedesc(m);
+    declare_filterdesc(m);
     declare_paramvalue(m);
     declare_imagespec(m);
     declare_roi(m);
